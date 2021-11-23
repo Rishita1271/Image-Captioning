@@ -1,6 +1,5 @@
 numpy
 keras
-json
 pickle
 scikit-learn
 Click==7.0
