@@ -1,0 +1,38 @@
+font-family: 'Dancing Script', cursive;
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.active {
+    background-image: url("https://previews.123rf.com/images/1stchoice/1stchoice1807/1stchoice180700023/105288223-light-blue-watercolor-background-abstract-paled-texture.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.title {
+    padding: 40px;
+    background-color: #CEE5D0;
+    font-family: 'Balsamiq Sans', cursive;
+    font-stretch: extra-expanded;
+    text-align: center;
+    color: black;
+}
+
+.input {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.image {
+    width: 25%;
+    border-style: solid;
+    position: relative;
+    top: 50px;
+}
+
+.caption {
+    font-size: 30px;
+    padding-top: 80px;
+    color: black;
+} 
